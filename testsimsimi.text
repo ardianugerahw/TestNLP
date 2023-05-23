@@ -1,0 +1,6 @@
+#logika simsismi menggunakan dictionary
+
+# data = {'tanya' : 'hai'} # adalah dictionary dengan kata kunci tanya maka akan mengeluarkan hai
+# print (data ['tanya']) # saat kata kunci tanya diambil maka yang diprint adalah hai
+
+# untuk membuat membuat bot simsimi diperlukan file json agar bisa menyimpan data dictionary
